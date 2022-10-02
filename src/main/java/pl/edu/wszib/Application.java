@@ -2,7 +2,7 @@ package pl.edu.wszib;
 
 import pl.edu.wszib.myPackage.MyClass7;
 
-public class App
+public class Application
 {
     public static void main( String[] args )
     {
